@@ -16,9 +16,9 @@ Key Questions Answered:
  4. What movie has the lowest popularity? What is its genre?
  5. Which year has most filmed movies?
 
- 6. Key Visualisations:
+Key Visualisations:
 
- 7. Key Insights:
+Key Insights:
  1. Drama genre is the most frequent genre in our dataset.
  2. Mostly average movies have highest number of votes.
  3. Spiderman: No Way Home has the highest popularity whose genres are Action, Adventure and Science Fiction

@@ -17,6 +17,7 @@ Key Questions Answered:
  5. Which year has most filmed movies?
 
 Key Visualisations:
+
 ![Genre Distribution](genre_dist.png)
 ![Vote Count Distribution](vote_dist.png)
 ![Release Year Distribution](release_dist.png)

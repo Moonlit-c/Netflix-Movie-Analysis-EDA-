@@ -17,9 +17,9 @@ Key Questions Answered:
  5. Which year has most filmed movies?
 
 Key Visualisations:
-![Genre Distribution](Downloads/genre_dist.png)
-![Vote Count Distribution](Downloads/vote_dist.png)
-![Release Year Distribution](Downloads/release_dist.png)
+![Genre Distribution](genre_dist.png)
+![Vote Count Distribution](vote_dist.png)
+![Release Year Distribution](release_dist.png)
 
 Key Insights:
  1. Drama genre is the most frequent genre in our dataset.
